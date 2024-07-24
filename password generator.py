@@ -1,4 +1,3 @@
-# PROJECT_2
 # PASSWORD GENERATOR
 
 import random
