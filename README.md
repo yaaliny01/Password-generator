@@ -1,3 +1,3 @@
 # Password-generator
-Developed a password generator by importing necessary modules and concatenating constants.
-Implemented user input handling for password length and automated password generation.
+Built a password generator that allows users to specify password length, resulting a secure password.
+Utilized modules and concatenation techniques to generate and display customizable passwords.
